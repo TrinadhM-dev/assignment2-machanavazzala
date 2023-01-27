@@ -15,3 +15,8 @@ I like **Mumbai Indians** team it's one of the most successful team till the dat
 1. RohitSharma
 1. SKY
 2. Ishan Kishan
+* Chennai Super Kings
+* Delhi DareDevils
+* Sydney Sixers
+* Punjab Kings
+* Perth Scrochers
