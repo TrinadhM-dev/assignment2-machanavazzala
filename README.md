@@ -21,5 +21,18 @@ I like **Mumbai Indians** team it's one of the most successful team till the dat
 * Punjab Kings
 * Perth Scrochers
 
+ **[About Me](AboutMe.md)** 
 
- **[AboutMe](AboutMe.md)** 
+---
+
+ ## Let's Explore
+  Travel gives us the greatest stories, our most cherished memories and countless irreplaceable learnings that we can choose to pay forward to others. It teaches us about ourselves and each other, it broadens our horizons and, just like a reset button, it forces us to refocus on what really matters in our life. these are some of the places that every one has crave towards travel.
+
+
+ | Country Name      | Description | Days |  
+| ----------- | ----------- |-------------|
+| United States| tremendous weather and touristic places | 15       |
+| Thailand | Due to different culture | 7       |
+| Spain| Known for Tourism | 10    |
+| Swizterland | Known for Rhine Falls | 8
+
