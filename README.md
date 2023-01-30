@@ -35,4 +35,27 @@ I like **Mumbai Indians** team it's one of the most successful team till the dat
 | Thailand | Due to different culture | 7       |
 | Spain| Known for Tourism | 10    |
 | Swizterland | Known for Rhine Falls | 8
+ 
+ ---
+ ### Pithy Quotes on Work
+> 🤔 Or maybe it’s just MONDAY! And we all know how Mondays are ?🤔
+***stephen king-*** 
+
+>🤐 First five days after weekend are the hardest 🤐 ***unknown-***
+---
+Code Fencing for the htaccess
+> Shock Teenage Gangsters with wp-config Redirect?
+
+ Click here for StackoverFlow link
+ <https://stackoverflow.com/questions/37069784/wordpress-http-to-https-redirection>  
+ 
+
+ ``` 
+ Redirect 301 /wp-config.php http://www.fbi.gov/
+ ```
+ click here for accessing the link <https://css-tricks.com/snippets/htaccess/shock-teenage-gangsters-with-wp-config-redirect/>
+
+
+
+
 
